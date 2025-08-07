@@ -1,0 +1,19 @@
+Identifier
+1) Any name given variable or functions or classes is called identifiers
+
+Rules 
+1) No Limit characters
+2) Not starts with number
+3) special symbols - "_" 
+4) Case Sensitive
+5) dont use keywords
+
+KeyWords 
+for
+if
+else
+
+Python Operators
+
+-255 to 255 having same memory allocation in python.
+without space 4096 character
